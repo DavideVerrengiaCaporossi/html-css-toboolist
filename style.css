@@ -5,6 +5,12 @@ header {
 body { 
     background-color: lightgray;
 }
+
+.primodiv{
+
+    padding: 10px;
+}
+
 .contenitore{ 
     width: 60%;
     margin-left: auto;
@@ -19,7 +25,14 @@ margin: 0;
 padding: 0;
 
 }
-.primodiv{
 
-    padding: 10px;
+.PrimoBottone {
+    text-decoration: none;
+    border: 1px solid grey;
+    
+}
+
+.SecondoBottone {
+    text-decoration: none;
+    border: 1px solid grey;
 }
