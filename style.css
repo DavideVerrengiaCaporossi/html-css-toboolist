@@ -62,8 +62,40 @@ h1{
 .margini-lista {
     margin-bottom: 10px;
 }
+/*da i margini a ogni lista e rimuove i pallini di fianco la lsita*/
 ul.spazio-nella-lista li{
-margin-top: 10px ;
-margin-bottom: 10px;
-list-style-type: none;
+    margin-top: 10px ;
+    margin-bottom: 10px;
+    list-style-type: none;
+ }
+ /*serve a spostare di un po l h3 dal triangolino rovesciato*/
+h3 {
+    padding-left: 3px;
+}
+
+
+/**/
+.bordo-croce-spunte{
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 50%;
+    font-size: 13px;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+}
+.Spunta {
+    display: inline-block;
+    border-color: #2cc6ab;
+    padding-left: 2px;
+    padding-bottom: 5px;
+    color: #2cc6ab;
+}
+/*da il colore alla croce e al suo bordo*/
+.croce {
+    display: inline-block;
+    border-color: #ff0001;
+    padding-left: 2px;
+    padding-bottom: 5px;
+    color: #ff0001;
 }
