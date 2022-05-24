@@ -29,10 +29,14 @@ padding: 0;
 .PrimoBottone {
     text-decoration: none;
     border: 1px solid grey;
+    border-radius: 4px;
+    padding: 4px;
     
 }
 
 .SecondoBottone {
     text-decoration: none;
     border: 1px solid grey;
+    border-radius: 4px;
+    padding: 4px;
 }
