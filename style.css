@@ -1,4 +1,8 @@
-main { 
+header {
+    background-color: #fff;
+}
+
+body { 
     background-color: lightgray;
 }
 .contenitore{ 
@@ -8,4 +12,14 @@ main {
     margin-top: 5%;
     background-color: #fff;
     
+}
+*{
+box-sizing: border-box;
+margin: 0; 
+padding: 0;
+
+}
+.primodiv{
+
+    padding: 10px;
 }
