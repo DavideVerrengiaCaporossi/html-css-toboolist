@@ -74,7 +74,7 @@ h3 {
 }
 
 
-/**/
+/*regola tutto su una sola riga e regola i bordi delle spunte*/
 .bordo-croce-spunte{
     display: inline-block;
     border: 1px solid;
@@ -84,8 +84,9 @@ h3 {
     height: 15px;
     width: 15px;
 }
+/*da il colore alla spunta e al suo bordo*/
 .Spunta {
-    display: inline-block;
+    
     border-color: #2cc6ab;
     padding-left: 2px;
     padding-bottom: 5px;
@@ -93,9 +94,11 @@ h3 {
 }
 /*da il colore alla croce e al suo bordo*/
 .croce {
-    display: inline-block;
+    
     border-color: #ff0001;
     padding-left: 2px;
     padding-bottom: 5px;
     color: #ff0001;
 }
+
+
