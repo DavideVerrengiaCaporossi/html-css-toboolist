@@ -31,8 +31,11 @@ padding: 0;
     border: 1px solid grey;
     border-radius: 4px;
     padding: 4px;
-    
+    background-color: rgb(44, 130, 243);
+    color: #fff;
 }
+
+
 
 .SecondoBottone {
     text-decoration: none;
