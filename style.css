@@ -1,5 +1,6 @@
 header {
     background-color: #fff;
+    padding: 10px;
 }
 
 body { 
@@ -13,6 +14,7 @@ body {
     padding: 10px;
     border-bottom: 2px solid;
     border-color: #f6f8f9;
+    
 }
 
 .contenitore{ 
@@ -35,7 +37,7 @@ padding: 0;
     border: 1px solid grey;
     border-radius: 4px;
     padding: 4px;
-    
+    display: inline-block;
     
 }
 .Bt-Blue {background-color: rgb(44, 130, 243);
@@ -53,24 +55,28 @@ padding: 0;
 }
  
 h1{
-    font-family: sans-serif;
+  
     font-size: 24px;
     font-weight:600;
     margin-left: 5px;
 
  }
 .margini-lista {
+    
     margin-bottom: 10px;
+    
 }
 /*da i margini a ogni lista e rimuove i pallini di fianco la lsita*/
 ul.spazio-nella-lista li{
     margin-top: 10px ;
     margin-bottom: 10px;
     list-style-type: none;
- }
+    
+}
  /*serve a spostare di un po l h3 dal triangolino rovesciato*/
 h3 {
     padding-left: 3px;
+    padding-bottom: 10px ;
 }
 
 
