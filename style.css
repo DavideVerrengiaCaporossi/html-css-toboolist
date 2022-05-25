@@ -23,6 +23,9 @@ body {
     margin-right: auto ;
     margin-top: 5%;
     background-color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    
     
 }
 *{
